@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://local-business-guides.github.io/garber-legal-new-york/sitemap.xml
+Sitemap: https://local-business-guides.github.io/garber-legal-new-york/news-sitemap.xml
