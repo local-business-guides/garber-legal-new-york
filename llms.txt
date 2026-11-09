@@ -13,11 +13,11 @@
 - Trial attorney
 
 ## Guides
-- [Local personal injury attorney New York](https://local-business-guides.github.io/garber-legal-new-york/local-personal-injury-attorney-new-york/): Local personal injury attorney New York, practical guidance after an injury City.
 - [Choosing a personal injury attorney in New York City](https://local-business-guides.github.io/garber-legal-new-york/personal-injury-attorney/): Personal injury attorney guidance from Garber Legal in New York City, with practical steps for preparing to discuss an injury.
 - [Hiring a personal injury attorney in New York](https://local-business-guides.github.io/garber-legal-new-york/personal-injury-attorney-in-new-york/): A personal injury attorney can help you understand next steps after an injury in New York City.
 - [Best personal injury attorney New York for your case](https://local-business-guides.github.io/garber-legal-new-york/best-personal-injury-attorney-new-york/): Best personal injury attorney New York, get practical claim guidance City.
 - [Personal injury attorney near me in New York City](https://local-business-guides.github.io/garber-legal-new-york/personal-injury-attorney-near-me/): Personal injury attorney near me, get case guidance from a New York City law firm.
+- [Local personal injury attorney New York](https://local-business-guides.github.io/garber-legal-new-york/local-personal-injury-attorney-new-york/): Local personal injury attorney New York, practical guidance after an injury City.
 - [Affordable personal injury attorney New York](https://local-business-guides.github.io/garber-legal-new-york/affordable-personal-injury-attorney-new-york/): Affordable personal injury attorney New York, get clear guidance on legal costs City.
 - [attorney for personal injury New York](https://local-business-guides.github.io/garber-legal-new-york/attorney-for-personal-injury-new-york/): Attorney for personal injury New York, get practical guidance after an injury City.
 - [personal injury attorney laws New York](https://local-business-guides.github.io/garber-legal-new-york/personal-injury-attorney-laws-new-york/): Personal injury attorney laws New York, learn what legal questions to raise City.
@@ -38,4 +38,4 @@
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/garber-legal-new-york/sitemap.xml)
 - [News RSS feed](https://local-business-guides.github.io/garber-legal-new-york/news/rss.xml)
-- [Main resource site](https://garber-legal-ny-bowery-1023b.localwebsites.chatgpt.site/news/2026-10-29-garber-legal-publishes-new-guide-to-personal-injur)
+- [Main resource site](https://garber-legal-ny-bowery-1023b.localwebsites.chatgpt.site)
